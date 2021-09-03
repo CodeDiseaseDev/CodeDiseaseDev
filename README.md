@@ -8,6 +8,7 @@ I am a fullstack developer, I know the following programming languages.
 
 <center>
   <br>
+  <img src="https://komarev.com/ghpvc/?username=CodeDiseaseDev">
   <h1>Github Statistics</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=CodeDiseaseDev&theme=darcula">
   <br>
