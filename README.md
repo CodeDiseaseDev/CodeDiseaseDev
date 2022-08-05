@@ -6,7 +6,7 @@ I am a fullstack developer, I know the following programming languages.
 
 <h2>🤖 Ban 1 bot. Manufacture another. 🤖</h2> 
 
-<b>`C Sharp` `JavaScript` `NodeJS` `Python` `Batch Script`</b>
+<b>`C#` `JavaScript` `Python` `C++` `Lua`</b>
 
 <center>
   <br>
