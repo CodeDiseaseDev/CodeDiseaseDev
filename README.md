@@ -15,5 +15,5 @@ I am a fullstack developer, I know the following programming languages.
   <img src="https://github-readme-stats.vercel.app/api?username=CodeDiseaseDev&theme=darcula">
   <br>
   <h1>My Discord</h1>
-  <img src="https://lanyard-profile-readme.vercel.app/api/853911371342676008">
+  <img src="https://lanyard-profile-readme.vercel.app/api/904259610263838750">
 </center>
