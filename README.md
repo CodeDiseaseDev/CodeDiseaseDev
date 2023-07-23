@@ -4,7 +4,7 @@ Hi, I'm CodeDisease.
 
 I am a fullstack developer, I know the following programming languages.
 
-<b>`C#` `JavaScript` `Python` `C++` `Lua`</b>
+<b>`C#` `C++` `JavaScript/Typescript` `Python` `HTML/CSS`</b>
 
 <h2>🤖 Ban 1 bot. Manufacture another. 🤖</h2> 
 
